@@ -12,7 +12,7 @@ I'm a student of Electrical Engineering with a passion for hardware analysis and
 
 ## 🌱 I’m currently learning
 
-- Improving my skills in embedded systems dirver devolpment and python simulations.
+- Improving my skills in embedded systems driver devolpment and python simulations.
 
 ## 📄 Projects
 
@@ -22,7 +22,7 @@ Here are some of my projects:
 
 ## 📝 Site
 
-I have a site with more informations about me too: [slemanz](www.slemanz.com)
+I have a site with more informations about me too: [slemanz](https://www.slemanz.com)
 
 
 ## 💬 Connect with me
