@@ -12,10 +12,12 @@ Electrical engineer focused on embedded systems development, specialized in hard
 
 ## 📄 Projects
 
-- I'm currently doing my portfolio.
+- See my pinned.
+
+## 📎 Resume
+
+Find my resume [here](https://github.com/slemanz/my-resume).
 
 ## 💬 Connect with me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/slemanz)
-
-
