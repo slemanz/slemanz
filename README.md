@@ -25,6 +25,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/slemanz)
 ---
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=slemanz&theme=dark&hide_border=true" /> 
+  <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=slemanz&theme=dark" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slemanz&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
