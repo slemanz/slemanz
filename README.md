@@ -12,7 +12,9 @@ Electrical engineer focused on embedded systems development, specialized in hard
 
 ## 📄 Projects
 
-- See my pinned.
+- [Blinky to Bootloader](https://github.com/slemanz/blinky-to-bootloader)
+- [RA4M1 Sandbox](https://github.com/slemanz/RA4M1-sandbox)
+- [Nina Project](https://github.com/slemanz/nina-project)
 
 ## 📎 Resume
 
