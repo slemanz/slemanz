@@ -1,4 +1,4 @@
-![Logo](logo_sleman.png)
+![Logo](logo.png)
 
 # 👋 Hi, I'm William Sleman!
 
