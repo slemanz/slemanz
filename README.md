@@ -1,3 +1,5 @@
+![Logo](logo_sleman.png)
+
 # 👋 Hi, I'm William Sleman!
 
 ## 🎓 About Me
