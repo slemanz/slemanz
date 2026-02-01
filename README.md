@@ -31,3 +31,8 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/slemanz)
 <p align="center">
   <img src="https://github-readme-streak-stats-xi-woad.vercel.app?user=slemanz&theme=dark" />
 </p>
+
+<p align="center">
+  <img src="http://github-readme-stats-sooty-two.vercel.app/api/top-langs/?username=slemanz&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+</p>
+
