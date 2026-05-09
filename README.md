@@ -33,6 +33,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/slemanz)
 </p>
 
 <p align="center">
-  <img src="http://github-readme-stats-sooty-two.vercel.app/api/top-langs/?username=slemanz&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats-sooty-two.vercel.app/api/top-langs/?username=slemanz&theme=dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook,html,css" />
 </p>
 
