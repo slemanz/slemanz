@@ -36,5 +36,5 @@ The test I apply to everything here is simple: if I can implement it, I understa
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sooty-two.vercel.app/api/top-langs/?username=slemanz&theme=dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook,html,css" />
+  <img src="https://github-readme-stats-sooty-two.vercel.app/api/top-langs/?username=slemanz&theme=dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook,html,css,postscript,tex" />
 </p>
