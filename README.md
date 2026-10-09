@@ -20,12 +20,6 @@ My most advanced debugging tool is still an led.
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-xi-woad.vercel.app?user=slemanz&theme=dark" />
-    <img height="160" alt="GitHub streak" src="https://github-readme-streak-stats-xi-woad.vercel.app?user=slemanz&theme=default" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sooty-two.vercel.app/api/top-langs/?username=slemanz&theme=dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook,html,css,postscript,tex" />
-    <img height="160" alt="Top languages" src="https://github-readme-stats-sooty-two.vercel.app/api/top-langs/?username=slemanz&theme=default&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook,html,css,postscript,tex" />
-  </picture>
+  <img height="160" alt="GitHub streak" src="https://github-readme-streak-stats-xi-woad.vercel.app?user=slemanz&theme=dark" />
+  <img height="160" alt="Top languages" src="https://github-readme-stats-sooty-two.vercel.app/api/top-langs/?username=slemanz&theme=dark&show_icons=true&hide_border=true&layout=compact&hide=jupyter%20notebook,html,css,postscript,tex" />
 </p>
