@@ -1,14 +1,14 @@
-![Logo](logo.png)
+![Logo](images/logo.png)
 
 # Who am I
 
 I'm an electrical engineer working with embedded systems, developing both the hardware and the firmware. I like learning how things actually work, all the way down, without black boxes in the way.
 
-My most advanced debugging tool is still an led.
+My most advanced debugging tool is still an LED.
 
 ## Skills
 
-**C** · **C++** · **ARM Cortex-M** · **Automated testing** · **Make/CMake** · **KiCad/Altium** · **Python** 
+![C, C++, ARM Cortex-M, Automated Tests, CMake, KiCad, Altium, Python, Docker, Git, Linux](images/skills_icons.png)
 
 ## Elsewhere
 
